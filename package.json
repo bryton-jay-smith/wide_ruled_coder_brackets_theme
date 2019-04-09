@@ -1,0 +1,19 @@
+{
+    "title": "Wide Ruled Coder Theme",
+    "name": "wideruledcoder",
+    "description": "Wouldn't it be great if you could code in your old English notebook? Yeah, probably not. Well, now you can anyway!",
+    "version": "0.0.1",
+    "author": "Bryton Smith <bryton.jay.smith@gmail.com>",
+    "homepage": "https://github.com/bryton-jay-smith/wide_ruled_coder_brackets_theme",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bryton-jay-smith/wide_ruled_coder_brackets_theme.git"
+    },
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "main.less"
+    },
+    "screenshot": "screenshot.png"
+}
